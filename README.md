@@ -23,7 +23,7 @@ Supports authentication, real-time chat, and user presence tracking.
 1. Clone the repository:
    ```sh
    git clone https://github.com/Rafonn/ChatBot-WebInterface.git
-   cd ChatBotInterface
+   cd ChatBot-WebInterface
    ```
 
 2. Install dependencies:
